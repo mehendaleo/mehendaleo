@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi there 👋
+
+My name is Omkar Mehendale, and I am a software engineer currently based in Cincinnati, Ohio. Want to learn more about me? Keep scrolling!
+
+### 🏫 Background
+
+
 
 <!--
 **mehendaleo/mehendaleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

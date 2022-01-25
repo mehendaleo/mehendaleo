@@ -4,6 +4,7 @@ My name is Omkar Mehendale, and I am a software engineer currently based in Cinc
 
 ### 🏫 Background
 
+Like I said, I was raised in Cincinnati, and I kept a pretty active lifestyle while growing up, playing any sport I could, such as baseball, soccer, and tennis. I was even a state finalist in doubles! While I was away from sports, I was either hanging out with friends, discovering new hobbies, or simply playing as many video games as I could get my hands on. 
 
 
 <!--

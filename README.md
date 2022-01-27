@@ -8,7 +8,7 @@ Like I said, I was raised in Cincinnati, and I kept a pretty active lifestyle wh
 
 
 
-Technologies I know!
+### Technologies I know!
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 
 <!--

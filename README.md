@@ -6,9 +6,14 @@ My name is Omkar Mehendale, and I am a software engineer currently based in Cinc
 
 I was raised in Cincinnati, and I kept a pretty active lifestyle while growing up, playing any sport I could, such as baseball, soccer, swimming, and tennis. I was even a state finalist in doubles! While I was away from sports, I was either hanging out with friends, discovering new hobbies, or simply playing as many video games as I could get my hands on. 
 
-After high school, I attended THE Ohio State University where I considered a career in medicine, majoring in Psychology and Neuroscience. While I greatly enjoyed my coursework, and really any kind of science, I eventually decided that I didn't actually want a career in medicine. However, I still stay engaged in the field, and do my best to learn as much as possible about scientific progress, or really any interesting development in any field.
+After high school, I attended THE Ohio State University where I considered a career in medicine, majoring in Psychology and Neuroscience. While I greatly enjoyed my coursework, and really any kind of science, I eventually decided that I didn't actually want a career in medicine. However, I still stay engaged in the field, and do my best to learn as much as possible about scientific progress, or really any interesting development in any field. Today, my hobbies remain very similar, including friends, sports, and video games, but I've also branched into cooking, lifting, and playing frisbee golf in my free time.
 
-### SWE Career
+### 🕴️ Work Experience
+
+Although my first couple jobs were as a math tutor and fast food employee, I consider my position as a Medicare Analyst my first adult job coming out of undergrad. I was responsible for handling Medicare appeals, complaints, and grievances, to ensure our members got the best care possible. After I got promoted, I started training new hires, and had a sense of pride in their success. I learned a lot in this role about the business side of life, and I thought my experience was rewarding and well worth it, but I realized that I enjoyed creative problem solving that unfortunately wasn't part of my daily job role. After taking several online intro to programming courses, I decided to take the deep dive and truly pursue a career in software engineering.  
+
+### 🖥️ SWE Career
+
 
 
 

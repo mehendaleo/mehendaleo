@@ -5,7 +5,7 @@ My name is Omkar Mehendale, and I am a software engineer currently based in Cinc
 
 I was raised in Cincinnati, and I kept a pretty active lifestyle while growing up, playing any sport I could, such as baseball, soccer, swimming, and tennis. I was even a state finalist in doubles! While I was away from sports, I was either hanging out with friends, discovering new hobbies, or simply playing as many video games as I could get my hands on. 
 
-After high school, I attended THE Ohio State University where I considered a career in medicine, majoring in Psychology and Neuroscience. While I greatly enjoyed my coursework, and really any kind of science, I eventually decided that I didn't actually want a career in medicine. However, I still stay engaged in the field, and do my best to learn as much as possible about scientific progress, or really any interesting development in any field. Today, my hobbies remain very similar, including friends, sports, and video games, but I've also branched into cooking, lifting, and playing frisbee golf in my free time.
+After high school, I attended THE Ohio State University where I considered a career in medicine, majoring in Psychology and Neuroscience. While I greatly enjoyed my coursework, and really any kind of science, I eventually decided that I didn't actually want a career in medicine. However, I still stay engaged in the field, and do my best to learn as much as possible about scientific progress, or really any interesting development in any field. Today, my hobbies remain very similar, including friends, sports, and video games, but I've also branched into cooking, lifting, exploring nature, and playing frisbee golf in my free time.
 
 ## 🕴️ Work Experience
 
